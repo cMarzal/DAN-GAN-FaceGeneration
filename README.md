@@ -1,8 +1,6 @@
 
 # GAN and ACGAN face generation
 
-<img src="fake_samples-8-500.png" alt="hi" class="inline"/>
-
 This is a project part of the course "Deep Learning and Computer Vision" of National Taiwan University. A GAN and an ACGAN is implemented for generating human face images.
 The GAN generates random faces, while the ACGAN generates the same faces twice, once smiling (second tag at '1') and once not smiling (second tag at '2').
 
